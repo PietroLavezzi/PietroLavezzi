@@ -6,6 +6,6 @@ Meu nome e Pietro Lavezzi
 -  Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo Pelo Email - 00001124354554sp@al.educacao.sp.gov.br
+### Você pode entrar em contato comigo pelo email - 00001124354554sp@al.educacao.sp.gov.br
 E também pelo instagram: @pietro_prad0_
 
